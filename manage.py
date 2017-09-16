@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#Новый комментарий
 import os
 import sys
 
